@@ -1,0 +1,54 @@
+/* Reset default styles */
+*,
+*::before,
+*::after{
+    margin:0;
+    padding:0;
+    border:0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul,
+ol,
+li{
+    list-style: none;
+}
+
+img{
+    vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-weight: inherit;
+    font-size: inherit;
+}
+
+html,body{
+    height: 100%;
+    line-height: 1;
+    font-size:16px;
+    color:#000000;
+    font-family: Montserrat;
+    background-color: #f3f3f3;
+}
+
+.wrapper{
+    min-height:100%;
+    overflow:hidden;
+}
+/* 
+.container{
+    /* max-width:1046px;
+    margin:0 auto; */
+    /* padding:0 15px;
+    box-sizing: content-box; */
+/* } */

@@ -1,0 +1,4 @@
+{
+    "mongoUri":"mongodb+srv://Gagik:abcd1234@cluster0.mzc44.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "port":4000
+}

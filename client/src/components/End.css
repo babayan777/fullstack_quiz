@@ -1,0 +1,22 @@
+.end{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.end-title{
+    font-weight: 600;
+    margin-bottom:50px;
+}
+
+.end-container{
+    text-align: center;
+    -webkit-box-shadow: 0px 0px 10px 10px #fff; 
+    box-shadow: 0px 0px 10px 10px #fff;
+    padding:30px 80px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
